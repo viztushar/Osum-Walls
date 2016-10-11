@@ -8,27 +8,27 @@
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/boat2.png",
-      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/boat2-thumb.png",
+      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/boat2.png",
+      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/boat2-thumb.png",
       "name": "Wallpaper 2"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/dope43.png",
-      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/dope43-thumb.png",
+      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/dope43.png",
+      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/dope43-thumb.png",
       "name": "Wallpaper 3"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/lavawood.png",
-      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/dope/lavawood-thumb.png",
+      "url": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/lavawood.png",
+      "thumb": "https://raw.githubusercontent.com/rutwik2499/Osum-Walls/master/dope/lavawood-thumb.png",
       "name": "Wallpaper 7"
     }
   ],
-  
+ 
   "dope": [
     {
-      "author": "David Astorga (IGL)",
+      "author": "Tushar Parmar",
       "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
       "name": "Wallpaper"
@@ -113,5 +113,5 @@
       "thumb": "http://www.makeathumbnail.com/thumbnails/image413208.png",
       "name": "Wallpaper 7"
     }
-	]
+    ]
 }
